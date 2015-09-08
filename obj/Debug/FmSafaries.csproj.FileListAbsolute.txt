@@ -1,0 +1,4 @@
+C:\FMSaf\FmSafaries\FmSafaries\bin\FmSafaries.dll
+C:\FMSaf\FmSafaries\FmSafaries\bin\FmSafaries.pdb
+C:\FMSaf\FmSafaries\FmSafaries\obj\Debug\FmSafaries.dll
+C:\FMSaf\FmSafaries\FmSafaries\obj\Debug\FmSafaries.pdb
